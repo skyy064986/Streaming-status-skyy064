@@ -15,10 +15,9 @@
       "{NF3( 〈 {emoji:time} {hour:1} : {min:1} 〉 ⭒ 〈 📆 {th=date} / {en=month:3} / {en=year:2} 〉 )}"
     ],
     "text-2": [
-      "{NF3(Shorekeeper Loading..)}",
-      "☆ | 💙 ╺  Shorekeeper  ྀི𓈒",
-      "☆ | 💙⠀╺  Shorekeeper  ྀི𓈒",
-
+      "{NF3( SKY Loading..)}",
+      "☆ | 💙 ╺  SKY  ྀི𓈒",
+      "☆ | 💙⠀╺  SKY  ྀི𓈒",
     ],
     "text-3": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
     "bigimg": [
@@ -74,14 +73,14 @@
     "smallimg": [],
     "button-1": [
       {
-        "name": "Miyako's server",
-        "url": "https://discord.gg/TSdpyMMfrU"
+        "name": "🍵 𝚐𝚛𝚎𝚎𝚗 𝚑𝚘𝚞𝚜𝚎 ༝ ˚₊ ☕ server",
+        "url": "https://discord.gg/zfDQsa2w58"
       }
     ],
     "button-2": [
       {
-        "name": "Stream status > Deobf",
-        "url": "https://github.com/4levy/Streaming-status"
+        "name": "Splatoon TH🦑",
+        "url": "https://discord.gg/splatoonth"
       }
     ]
   }
